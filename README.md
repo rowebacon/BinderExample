@@ -1,4 +1,4 @@
-# Python environment with requirements.txt - Awesome
+# Python environment with requirements.txt - Awesome 2
 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://beta.mybinder.org/v2/gh/binder-examples/requirements/master)
 
