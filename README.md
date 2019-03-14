@@ -1,4 +1,4 @@
-# Python environment with requirements.txt - Version 4
+# Python environment with requirements.txt - Version 1
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rowebacon/BinderExample/2.0)
